@@ -3,6 +3,6 @@ Curso UdeA de IA para ingenieros
 
 Integrantes del grupo:
 
-Juan Diego Alvarez; ID: 1003814249 ; Ingeniería Mecánica
+Juan Diego Alvarez Perdomo; ID: 1003814249 ; Ingeniería Mecánica
 
-Julián David Martínez; ID: 1152226090 ; Ingeniería Mecánica
+Julián David Martínez Tamayo; ID: 1152226090 ; Ingeniería Mecánica
